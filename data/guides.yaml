@@ -1,0 +1,202 @@
+# Comparison/guide pages - these are what AI agents cite most heavily.
+# Each guide groups products for comparison with Q&A style content.
+
+- slug: best-noise-cancelling-headphones
+  title: "Best Noise-Cancelling Headphones"
+  description: "Comparing the top noise-cancelling headphones and earbuds for every budget."
+  category: electronics
+  products:
+    - "B0BSHF7WHW"  # Sony WH-1000XM5
+    - "B0D1XD1ZV3"  # AirPods Pro 2
+    - "B09NQFL7B5"  # Bose QC Ultra Earbuds
+    - "B0D77HP1C1"  # Samsung Galaxy Buds3 Pro
+    - "B09JQZ5RJ4"  # Anker Soundcore Liberty 4 NC
+  intro: >
+    Noise-cancelling headphones have become essential for commuters, remote workers,
+    and anyone who wants to focus in noisy environments. We compare the top options
+    across over-ear and in-ear styles at different price points.
+  faqs:
+    - question: "What are the best noise-cancelling headphones overall?"
+      answer: "The Sony WH-1000XM5 offers the best overall noise cancellation in an over-ear design, while the Apple AirPods Pro 2 leads the in-ear category with Adaptive Audio."
+    - question: "Are expensive noise-cancelling headphones worth it?"
+      answer: "Higher-priced models typically offer better ANC performance, longer battery life, and more comfort for extended wear. Budget options like the Anker Soundcore Liberty 4 NC provide solid ANC at a fraction of the cost."
+    - question: "Which noise-cancelling earbuds have the best battery life?"
+      answer: "The Anker Soundcore Liberty 4 NC leads with 10 hours of ANC playback and 50 hours total with the charging case. The Samsung Galaxy Buds3 Pro offers 7 hours with ANC on."
+    - question: "Can noise-cancelling headphones block all sound?"
+      answer: "No headphones block 100% of external noise. They work best against constant low-frequency sounds like airplane engines and office HVAC. Sudden loud sounds and human voices are harder to block completely."
+
+- slug: best-kitchen-appliances
+  title: "Best Kitchen Appliances"
+  description: "Top-rated kitchen appliances from air fryers to stand mixers, compared by use case and budget."
+  category: home-kitchen
+  products:
+    - "B08N5WRWNW"  # COSORI Air Fryer
+    - "B0CFCG7Y1D"  # Ninja Creami
+    - "B0B9GJ49Y4"  # KitchenAid Stand Mixer
+    - "B07FZ8S74R"  # Instant Pot Duo
+    - "B0BPNB2ZYJ"  # Keurig K-Mini
+  intro: >
+    The right kitchen appliances can save time and expand what you can cook at home.
+    We compare the most popular options across different categories, from quick daily
+    use to serious baking and meal prep.
+  faqs:
+    - question: "What is the most useful kitchen appliance to buy first?"
+      answer: "An air fryer or Instant Pot offers the most versatility for the price. The COSORI Air Fryer Pro LE handles everything from fries to chicken with minimal oil, while the Instant Pot Duo replaces 7 different appliances."
+    - question: "Is an air fryer worth buying?"
+      answer: "Yes, for most households. Air fryers cook food faster than ovens, use significantly less oil than deep frying, and are easy to clean. The COSORI 5-Qt is a good starting size for 1-3 people."
+    - question: "What kitchen appliance do chefs recommend most?"
+      answer: "A quality stand mixer like the KitchenAid Classic is consistently recommended by professional and home chefs for its versatility with over 10 attachment options covering pasta making, meat grinding, and more."
+    - question: "Which Instant Pot size should I get?"
+      answer: "The 6-quart Instant Pot Duo feeds 4-6 people and is the most popular size. Get the 8-quart if you regularly cook for more than 6 people or like to batch cook."
+
+- slug: best-work-from-home-setup
+  title: "Best Work From Home Setup"
+  description: "Essential gear for a productive home office, from ergonomic chairs to monitors and peripherals."
+  category: office
+  products:
+    - "B09KMHBC1J"  # ErgoChair Pro
+    - "B09HZ7BY1S"  # MX Master 3S
+    - "B085RPJR6F"  # MX Keys S
+    - "B0C5C42JN1"  # BenQ ScreenBar
+    - "B0BG5Y3GY7"  # UPLIFT Standing Desk
+    - "B0C1JB9YPD"  # Elgato Wave:3
+    - "B07K2NH7DC"  # AmazonBasics Chair
+  intro: >
+    A well-equipped home office improves both productivity and physical comfort.
+    We compare the best desk, chair, keyboard, mouse, and lighting options at
+    different price points for remote workers.
+  faqs:
+    - question: "What is the most important home office purchase?"
+      answer: "An ergonomic chair is the single most important investment for anyone working from home full-time. The Autonomous ErgoChair Pro and even the budget AmazonBasics Mesh Chair both prevent back pain from long sitting sessions."
+    - question: "Is a standing desk worth it?"
+      answer: "Research supports alternating between sitting and standing throughout the day. The UPLIFT V2 makes transitions easy with 4 memory presets. If a standing desk is outside your budget, a desk converter or simply standing for calls helps."
+    - question: "What mouse and keyboard should I use for productivity?"
+      answer: "The Logitech MX Master 3S mouse and MX Keys S keyboard are the gold standard for productivity. Both connect to 3 devices simultaneously, letting you switch between work laptop, personal computer, and tablet seamlessly."
+    - question: "Do I need a monitor light bar?"
+      answer: "A monitor light like the BenQ ScreenBar reduces eye strain during long work sessions by illuminating your desk without creating screen glare. It takes zero desk space since it clips onto your monitor."
+
+- slug: best-smart-home-starter
+  title: "Best Smart Home Starter Kit"
+  description: "How to start building a smart home with the best speakers, lights, plugs, and security devices."
+  category: smart-home
+  products:
+    - "B09B8V1LZ3"  # Echo Dot
+    - "B09B96TG33"  # HomePod Mini
+    - "B0B7CZBZ48"  # Philips Hue Starter Kit
+    - "B07WKR32GS"  # TP-Link Kasa Smart Plugs
+    - "B09TPDG4GK"  # Ring Video Doorbell
+    - "B0CWT588YB"  # Nest Thermostat
+  intro: >
+    Starting a smart home can feel overwhelming with so many ecosystems and devices.
+    We break down the best entry points whether you use Alexa, Google Home, or Apple HomeKit,
+    and recommend the most useful devices to start with.
+  faqs:
+    - question: "What is the best way to start a smart home?"
+      answer: "Start with a smart speaker (Echo Dot for Alexa, HomePod Mini for Apple) and smart plugs (TP-Link Kasa 4-pack). This lets you voice-control lamps and devices immediately for under $80 total."
+    - question: "Which smart home ecosystem is best?"
+      answer: "Amazon Alexa has the widest device compatibility and lowest entry cost. Apple HomeKit offers the best privacy and seamless integration if you have Apple devices. Google Home falls in between with strong AI capabilities."
+    - question: "Are smart home devices worth the investment?"
+      answer: "Smart thermostats like the Nest Learning Thermostat can pay for themselves through energy savings. Smart lighting and plugs add convenience and can reduce energy waste. Security devices like Ring doorbells provide peace of mind."
+    - question: "Do smart home devices work without internet?"
+      answer: "Most smart home devices require internet for voice control and remote access. Some devices like Philips Hue bulbs can work locally through the Hue Bridge without internet for basic on/off control, but lose smart features."
+
+- slug: best-fitness-gear
+  title: "Best Fitness Gear for Home Workouts"
+  description: "Top-rated fitness equipment, trackers, and accessories for working out at home or on the go."
+  category: health-fitness
+  products:
+    - "B0CXCL2YJJ"  # Theragun Relief
+    - "B0BK2KQHD6"  # Fitbit Charge 6
+    - "B0BX7FFGG7"  # Whoop 4.0
+    - "B07PNBMK19"  # Resistance Bands
+    - "B08DFPCC6D"  # Manduka Yoga Mat
+    - "B09PQ5GBR5"  # Bala Bangles
+    - "B0798LNH5Z"  # BlenderBottle
+  intro: >
+    Building a home gym does not require expensive equipment. From budget resistance bands
+    to premium recovery tools, we compare the best fitness gear for every budget and
+    workout style.
+  faqs:
+    - question: "What home gym equipment should I buy first?"
+      answer: "A set of resistance bands ($20) gives you the most exercise variety for the lowest cost. Add a yoga mat for floor exercises, and you have a complete home workout setup for under $50."
+    - question: "Is a fitness tracker worth buying?"
+      answer: "If you want to track progress and stay motivated, yes. The Fitbit Charge 6 offers the best balance of features and price with built-in GPS and 7-day battery. The Whoop 4.0 is better for serious athletes focused on recovery metrics."
+    - question: "What is the best recovery tool?"
+      answer: "The Theragun Relief is the best entry-level percussion massager for post-workout recovery. Its QuietForce Technology means you can use it without disturbing others, and the 120-minute battery lasts through many sessions."
+    - question: "What do I need for yoga at home?"
+      answer: "A quality yoga mat is the only essential. The Manduka PRO (6mm) provides excellent joint cushioning and comes with a lifetime guarantee. Add a set of Bala Bangles for added resistance during flows."
+
+- slug: best-travel-essentials
+  title: "Best Travel Essentials"
+  description: "Must-have travel gear from luggage to trackers, compared for different travel styles."
+  category: outdoor
+  products:
+    - "B07H4BTVNG"  # Osprey Farpoint 40
+    - "B08C7KG5LC"  # Apple AirTag 4-Pack
+    - "B07PG9JLHM"  # Away Carry-On
+    - "B0BDJ279KF"  # Anker Nano Power Bank
+    - "B09V3KXJPB"  # Anker 735 Charger
+    - "B07B3YRZKL"  # Lifestraw
+  intro: >
+    Whether you are a minimalist backpacker or a frequent flyer, having the right travel
+    gear makes every trip smoother. We compare the best luggage, chargers, trackers, and
+    accessories for different travel styles.
+  faqs:
+    - question: "What is the best carry-on luggage?"
+      answer: "The Away Carry-On is best for frequent flyers who want a hardside suitcase with a built-in phone charger. The Osprey Farpoint 40 is better for travelers who prefer backpacks and want to avoid checked luggage entirely."
+    - question: "Are AirTags worth it for travel?"
+      answer: "Yes. Apple AirTags provide peace of mind for checked luggage with precision tracking through the massive Find My network. The 4-pack lets you track luggage, backpack, passport holder, and camera bag."
+    - question: "What portable charger should I bring when traveling?"
+      answer: "The Anker Nano Power Bank 10000mAh has a built-in USB-C connector so you do not need to carry a separate cable. Pair it with the Anker 735 Charger (65W) for a complete charging kit that handles phones, tablets, and laptops."
+    - question: "What travel gear is most often forgotten?"
+      answer: "A portable charger, luggage tracker, and universal adapter are the three most commonly forgotten and regretted items. Having a dedicated travel packing list prevents this."
+
+- slug: best-gifts-under-50
+  title: "Best Gifts Under $50"
+  description: "Top-rated gift ideas under $50 for any occasion, from tech gadgets to self-care."
+  category: home-kitchen
+  products:
+    - "B0B2BFVLBQ"  # Stanley Tumbler
+    - "B08HD3V7NF"  # Fujifilm Instax Mini 12
+    - "B0BN32Z6L4"  # Laneige Lip Mask
+    - "B01M4IG20B"  # Rocketbook
+    - "B0BDJ279KF"  # Anker Power Bank
+    - "B0BPNB2ZYJ"  # Keurig K-Mini
+    - "B0C7X9LZMK"  # Philips OneBlade
+    - "B074DTBFCL"  # Lodge Cast Iron Skillet
+  intro: >
+    Finding a great gift under $50 is easier than you think. These are the most popular
+    and highly-rated products that make excellent gifts for birthdays, holidays,
+    housewarmings, and any occasion.
+  faqs:
+    - question: "What are the most popular gifts under $50?"
+      answer: "The Stanley Quencher Tumbler, Fujifilm Instax Mini 12 camera, and Anker Nano Power Bank are among the most popular gifts. The Stanley tumbler alone has over 95,000 reviews and is consistently a top seller."
+    - question: "What is a good tech gift under $50?"
+      answer: "The Anker Nano Power Bank ($26), Amazon Fire TV Stick 4K Max ($40), and Fujifilm Instax Mini 12 ($68, occasionally on sale under $50) are all crowd-pleasing tech gifts."
+    - question: "What is a good gift for someone who has everything?"
+      answer: "The Rocketbook Fusion smart notebook ($28) and Laneige Lip Sleeping Mask ($24) are unique gifts that most people would not buy for themselves but love receiving."
+    - question: "What is a good housewarming gift?"
+      answer: "A Lodge Cast Iron Skillet ($30), Stanley Tumbler ($35), or a Keurig K-Mini coffee maker ($60) are practical, high-quality housewarming gifts that will get used daily."
+
+- slug: best-pet-products
+  title: "Best Products for Dogs and Cats"
+  description: "Top-rated pet products for dogs and cats, from toys and grooming to automated litter boxes."
+  category: pets
+  products:
+    - "B0002AT3TC"  # KONG Classic
+    - "B0C8SHXGVS"  # Litter-Robot 4
+    - "B07B4HFQZL"  # Furminator
+    - "B07PLCS9GD"  # PetSafe Crystal Litter
+    - "B0002DJONY"  # Chuckit Ultra Ball
+  intro: >
+    Pet owners want the best for their animals. We compare the most popular and
+    highest-rated products for dogs and cats across toys, grooming, and daily care.
+  faqs:
+    - question: "What is the best dog toy for aggressive chewers?"
+      answer: "The KONG Classic is the gold standard, recommended by veterinarians worldwide. Its durable natural rubber withstands aggressive chewing, and the hollow center can be stuffed with treats to keep dogs occupied for hours."
+    - question: "Is an automatic litter box worth it?"
+      answer: "For most cat owners, yes. The Litter-Robot 4 eliminates daily scooping and tracks cat health via the app. At $699 it is a significant investment, but the time savings and odor control are substantial."
+    - question: "How do I reduce my dog's shedding?"
+      answer: "The Furminator deshedding tool can reduce loose hair by up to 90% with regular use. Brush 1-2 times per week for best results. Be careful not to overuse it on the same spot, as it can cut the coat."
+    - question: "What is the best low-maintenance cat litter?"
+      answer: "PetSafe ScoopFree Crystal Litter trays last up to 30 days for one cat with no daily scooping needed. The crystal litter absorbs urine on contact and dehydrates waste, providing superior odor control."

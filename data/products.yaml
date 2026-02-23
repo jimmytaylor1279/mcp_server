@@ -1,0 +1,2087 @@
+# =============================================================================
+# ELECTRONICS
+# =============================================================================
+
+- asin: "B0D1XD1ZV3"
+  title: "Apple AirPods Pro 2 (USB-C)"
+  category: electronics
+  price: 189.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 68000
+  description: >
+    Active noise cancellation with 2x more effective blocking.
+    Adaptive Audio dynamically blends transparency and noise cancellation.
+    Personalized Spatial Audio with dynamic head tracking.
+    USB-C charging case with built-in speaker and lanyard loop.
+  tags: [audio, headphones, apple, noise-cancelling, wireless]
+  pros:
+    - "Excellent active noise cancellation"
+    - "Comfortable fit for extended wear"
+    - "USB-C charging case"
+    - "Adaptive Audio feature"
+  cons:
+    - "Premium price point"
+    - "Best experience within Apple ecosystem"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0BSHF7WHW"
+  title: "Sony WH-1000XM5 Wireless Noise Cancelling Headphones"
+  category: electronics
+  price: 278.00
+  currency: "USD"
+  rating: 4.6
+  rating_count: 42000
+  description: >
+    Industry-leading noise cancellation with eight microphones and two processors.
+    Crystal clear hands-free calling with 4 beamforming microphones.
+    Up to 30 hours of battery life with quick charging.
+    Lightweight design at approximately 250g.
+  tags: [audio, headphones, sony, noise-cancelling, wireless, over-ear]
+  pros:
+    - "Best-in-class noise cancellation"
+    - "30-hour battery life"
+    - "Lightweight and comfortable"
+    - "Multipoint Bluetooth connection"
+  cons:
+    - "No folding design"
+    - "Higher price than competitors"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B09V3KXJPB"
+  title: "Anker 735 Charger (GaNPrime 65W)"
+  category: electronics
+  price: 35.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 28000
+  description: >
+    65W compact USB-C charger with GaN technology.
+    Three ports (2 USB-C, 1 USB-A) for charging multiple devices simultaneously.
+    Compact foldable plug design for portability.
+    Intelligent power distribution with PowerIQ 4.0.
+  tags: [charger, usb-c, anker, travel, fast-charging]
+  pros:
+    - "Compact and portable"
+    - "65W output charges laptops"
+    - "Three ports"
+    - "Foldable plug"
+  cons:
+    - "Gets warm under full load"
+    - "Power shared across ports when multi-charging"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0C8S5QRSM"
+  title: "Kindle Paperwhite Signature Edition (2024)"
+  category: electronics
+  price: 189.99
+  currency: "USD"
+  rating: 4.6
+  rating_count: 15000
+  description: >
+    7-inch glare-free display with 300 ppi for sharp text.
+    Wireless charging compatible and auto-adjusting front light.
+    32GB storage for thousands of books.
+    Up to 12 weeks of battery life. Waterproof (IPX8).
+  tags: [kindle, ereader, amazon, reading, waterproof]
+  pros:
+    - "Wireless charging support"
+    - "Auto-adjusting front light"
+    - "32GB storage"
+    - "12-week battery life"
+  cons:
+    - "No color display"
+    - "Locked to Amazon ecosystem"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B09NQFL7B5"
+  title: "Bose QuietComfort Ultra Earbuds"
+  category: electronics
+  price: 249.00
+  currency: "USD"
+  rating: 4.3
+  rating_count: 12000
+  description: >
+    Immersive spatial audio with head tracking.
+    World-class noise cancellation with CustomTune technology.
+    Up to 6 hours of battery life plus 18 hours with charging case.
+    IPX4 water and sweat resistant.
+  tags: [audio, earbuds, bose, noise-cancelling, wireless]
+  pros:
+    - "Spatial audio with head tracking"
+    - "Excellent noise cancellation"
+    - "Comfortable secure fit"
+    - "IPX4 water resistance"
+  cons:
+    - "Expensive"
+    - "Average battery life"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0BT2PYJKL"
+  title: "Apple Watch Series 9 (GPS, 45mm)"
+  category: electronics
+  price: 399.00
+  currency: "USD"
+  rating: 4.7
+  rating_count: 25000
+  description: >
+    Advanced health features including blood oxygen, ECG, and temperature sensing.
+    Double Tap gesture for one-handed control. Always-on Retina display.
+    S9 chip with on-device Siri processing. Carbon neutral aluminum case option.
+  tags: [smartwatch, apple, fitness, health, wearable]
+  pros:
+    - "Comprehensive health monitoring"
+    - "Double Tap gesture"
+    - "Bright always-on display"
+    - "Fast S9 chip"
+  cons:
+    - "Requires iPhone"
+    - "Battery lasts about one day"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0D77HP1C1"
+  title: "Samsung Galaxy Buds3 Pro"
+  category: electronics
+  price: 179.99
+  currency: "USD"
+  rating: 4.4
+  rating_count: 8500
+  description: >
+    Adaptive noise cancellation with intelligent ambient sound.
+    24-bit Hi-Fi audio with 360 Audio. Blade design with ergonomic fit.
+    Up to 7 hours playback with ANC on, 30 hours total with case.
+    IP57 water and dust resistance.
+  tags: [audio, earbuds, samsung, noise-cancelling, wireless]
+  pros:
+    - "Excellent sound quality"
+    - "Comfortable blade design"
+    - "Long battery life"
+    - "IP57 rating"
+  cons:
+    - "Best features require Samsung phone"
+    - "Touch controls can be finicky"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0CXKS21JN"
+  title: "Apple iPad Air M2 (11-inch, 128GB)"
+  category: electronics
+  price: 599.00
+  currency: "USD"
+  rating: 4.8
+  rating_count: 5200
+  description: >
+    M2 chip delivers fast performance for multitasking and creative apps.
+    11-inch Liquid Retina display with P3 wide color and True Tone.
+    Supports Apple Pencil Pro and Magic Keyboard.
+    12MP front camera with Center Stage for video calls.
+  tags: [tablet, apple, ipad, productivity, creative]
+  pros:
+    - "Powerful M2 chip"
+    - "Gorgeous Liquid Retina display"
+    - "Apple Pencil Pro support"
+    - "All-day battery life"
+  cons:
+    - "128GB base storage fills up fast"
+    - "Magic Keyboard sold separately"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0CHX3QBCH"
+  title: "JBL Charge 5 Portable Bluetooth Speaker"
+  category: electronics
+  price: 149.95
+  currency: "USD"
+  rating: 4.7
+  rating_count: 35000
+  description: >
+    Powerful JBL Pro Sound with an optimized long-excursion driver and dual bass radiators.
+    Up to 20 hours of playtime on a single charge.
+    IP67 waterproof and dustproof rating for outdoor use.
+    Built-in power bank charges your devices via USB.
+  tags: [speaker, bluetooth, jbl, portable, waterproof, outdoor]
+  pros:
+    - "Excellent bass response"
+    - "20-hour battery life"
+    - "IP67 fully waterproof"
+    - "Can charge your phone"
+  cons:
+    - "Heavy for a portable speaker"
+    - "No speakerphone function"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B09JQZ5RJ4"
+  title: "Anker Soundcore Liberty 4 NC Earbuds"
+  category: electronics
+  price: 59.99
+  currency: "USD"
+  rating: 4.4
+  rating_count: 18000
+  description: >
+    Active noise cancelling earbuds with 98.5% noise reduction.
+    Custom Hi-Res certified 11mm drivers for detailed sound.
+    Up to 10 hours playtime with ANC on, 50 hours total with case.
+    Multipoint connection to two devices simultaneously.
+  tags: [audio, earbuds, anker, budget, noise-cancelling, wireless]
+  pros:
+    - "Exceptional value for ANC earbuds"
+    - "50-hour total battery life"
+    - "Multipoint connection"
+    - "Comfortable fit"
+  cons:
+    - "ANC not as strong as premium brands"
+    - "App required for best experience"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0CX23V2ZK"
+  title: "Amazon Fire TV Stick 4K Max (2nd Gen)"
+  category: electronics
+  price: 39.99
+  currency: "USD"
+  rating: 4.6
+  rating_count: 45000
+  description: >
+    Stream in 4K Ultra HD with support for Dolby Vision, HDR10+, and Dolby Atmos.
+    Wi-Fi 6E support for smoother streaming. Ambient Experience turns TV into smart display.
+    Fire TV Alexa Voice Remote Enhanced with backlit buttons.
+    16GB storage with faster app loading.
+  tags: [streaming, fire-tv, amazon, 4k, smart-home]
+  pros:
+    - "4K Dolby Vision streaming"
+    - "Wi-Fi 6E support"
+    - "Alexa voice control"
+    - "Very affordable"
+  cons:
+    - "Amazon ecosystem heavily promoted"
+    - "Ads on home screen"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B08HD3V7NF"
+  title: "Fujifilm Instax Mini 12 Instant Camera"
+  category: electronics
+  price: 67.95
+  currency: "USD"
+  rating: 4.6
+  rating_count: 22000
+  description: >
+    Instant film camera with automatic exposure for perfect shots.
+    Close-up mode for selfies and detailed shots from 30cm.
+    Lightweight and compact pastel design.
+    Uses Instax Mini film for credit-card-sized prints.
+  tags: [camera, instant, fujifilm, photography, gift]
+  pros:
+    - "Fun and easy to use"
+    - "Great for parties and events"
+    - "Automatic exposure adjustment"
+    - "Popular gift item"
+  cons:
+    - "Film is an ongoing cost"
+    - "No digital storage of photos"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0BDJ279KF"
+  title: "Anker Nano Power Bank 10000mAh"
+  category: electronics
+  price: 25.99
+  currency: "USD"
+  rating: 4.6
+  rating_count: 32000
+  description: >
+    Compact 10000mAh portable charger with built-in USB-C connector.
+    30W max output charges phones quickly. Foldable connector design.
+    LED display shows remaining battery percentage.
+    Charges iPhone to 50% in about 30 minutes.
+  tags: [power-bank, charger, anker, portable, usb-c, travel]
+  pros:
+    - "Built-in USB-C connector"
+    - "Compact pocket-friendly size"
+    - "30W fast charging"
+    - "LED battery indicator"
+  cons:
+    - "Only one built-in connector type"
+    - "Can only charge one device at a time"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B09B8616C1"
+  title: "USB-C to Lightning Cable 3-Pack (6ft)"
+  category: electronics
+  price: 11.99
+  currency: "USD"
+  rating: 4.5
+  rating_count: 55000
+  description: >
+    MFi certified USB-C to Lightning cables for fast charging.
+    6-foot length for convenient use while charging.
+    Durable nylon braided design resists tangling.
+    Compatible with all Lightning devices including iPhone and AirPods.
+  tags: [cable, usb-c, lightning, apple, charging, accessories]
+  pros:
+    - "Three cables in one pack"
+    - "6-foot length"
+    - "MFi certified"
+    - "Durable braided design"
+  cons:
+    - "Lightning standard being phased out"
+    - "No USB-C to USB-C option in pack"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+# =============================================================================
+# HOME & KITCHEN
+# =============================================================================
+
+- asin: "B0CFCG7Y1D"
+  title: "Ninja Creami Deluxe Ice Cream Maker"
+  category: home-kitchen
+  price: 199.99
+  currency: "USD"
+  rating: 4.5
+  rating_count: 31000
+  description: >
+    Turn frozen solid bases into ice cream, sorbet, gelato, milkshakes,
+    and more with the touch of a button. Multiple one-touch programs
+    for different frozen treats. Includes two 24oz pint containers.
+  tags: [kitchen, ice-cream, ninja, appliance]
+  pros:
+    - "Versatile frozen treat options"
+    - "Easy to use one-touch programs"
+    - "Great for healthy alternatives"
+    - "Two pint containers included"
+  cons:
+    - "Requires overnight freezing"
+    - "Can be loud during operation"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0B2BFVLBQ"
+  title: "Stanley Quencher H2.0 Tumbler 40oz"
+  category: home-kitchen
+  price: 35.00
+  currency: "USD"
+  rating: 4.7
+  rating_count: 95000
+  description: >
+    Double-wall vacuum insulated tumbler keeps drinks cold for hours.
+    Fits most car cup holders with ergonomic handle.
+    Splash-resistant lid with reusable straw.
+    Made with 90% recycled stainless steel.
+  tags: [tumbler, water-bottle, stanley, insulated]
+  pros:
+    - "Excellent insulation"
+    - "Fits car cup holders"
+    - "Durable construction"
+    - "Multiple color options"
+  cons:
+    - "Heavy when full"
+    - "Lid not fully leak-proof"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B08N5WRWNW"
+  title: "COSORI Air Fryer Pro LE 5-Qt"
+  category: home-kitchen
+  price: 69.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 58000
+  description: >
+    5-quart capacity air fryer with 9 one-touch cooking functions.
+    Shake reminder for even cooking results.
+    Dishwasher-safe basket for easy cleanup.
+    Cooks food with up to 85% less oil than traditional frying.
+  tags: [air-fryer, kitchen, cosori, appliance, healthy-cooking]
+  pros:
+    - "9 preset cooking functions"
+    - "Dishwasher-safe basket"
+    - "Compact 5-qt size"
+    - "Shake reminder feature"
+  cons:
+    - "Small for large families"
+    - "No window to see food"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0B9GJ49Y4"
+  title: "KitchenAid Classic Stand Mixer 4.5-Qt"
+  category: home-kitchen
+  price: 279.99
+  currency: "USD"
+  rating: 4.8
+  rating_count: 72000
+  description: >
+    Iconic tilt-head stand mixer with 4.5-quart stainless steel bowl.
+    10 speeds for thorough mixing from slow stir to fast whip.
+    Includes flat beater, dough hook, and wire whip.
+    Compatible with over 10 optional hub-powered attachments.
+  tags: [mixer, kitchenaid, baking, kitchen, appliance]
+  pros:
+    - "Powerful and reliable motor"
+    - "Huge attachment ecosystem"
+    - "Iconic durable design"
+    - "Multiple color options"
+  cons:
+    - "Heavy and takes counter space"
+    - "Attachments sold separately"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0BPNB2ZYJ"
+  title: "Keurig K-Mini Single Serve Coffee Maker"
+  category: home-kitchen
+  price: 59.99
+  currency: "USD"
+  rating: 4.5
+  rating_count: 48000
+  description: >
+    Compact single-serve coffee maker less than 5 inches wide.
+    Brews 6-12oz cups using K-Cup pods in minutes.
+    One-cup reservoir for fresh-brewed flavor every time.
+    Auto-off feature turns off 90 seconds after last brew.
+  tags: [coffee, keurig, kitchen, appliance, compact]
+  pros:
+    - "Ultra-compact design"
+    - "Fast brewing"
+    - "Easy to clean"
+    - "Great for small spaces"
+  cons:
+    - "Single cup reservoir only"
+    - "K-Cup pods create waste"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B07FZ8S74R"
+  title: "Instant Pot Duo 7-in-1 (6-Qt) Electric Pressure Cooker"
+  category: home-kitchen
+  price: 79.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 180000
+  description: >
+    7-in-1 multi-cooker replaces pressure cooker, slow cooker, rice cooker,
+    steamer, sauté pan, yogurt maker, and warmer. 6-quart capacity feeds
+    up to 6 people. Over 13 customizable smart programs.
+    Stainless steel inner pot is dishwasher safe.
+  tags: [instant-pot, pressure-cooker, kitchen, appliance, multi-cooker]
+  pros:
+    - "Replaces 7 kitchen appliances"
+    - "13 smart programs"
+    - "Very popular with huge recipe community"
+    - "Dishwasher-safe inner pot"
+  cons:
+    - "Learning curve for pressure cooking"
+    - "Takes up counter space"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B08KZXCM7M"
+  title: "OXO Good Grips 11-Piece Kitchen Utensil Set"
+  category: home-kitchen
+  price: 49.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 15000
+  description: >
+    Complete kitchen utensil set including tongs, spatula, spoon, ladle,
+    and more. Heat-resistant silicone heads safe up to 600°F.
+    Comfortable non-slip handles. Dishwasher safe.
+    Won't scratch non-stick cookware.
+  tags: [utensils, kitchen, oxo, cooking-tools, non-stick-safe]
+  pros:
+    - "Complete 11-piece set"
+    - "Heat resistant to 600°F"
+    - "Non-stick cookware safe"
+    - "Dishwasher safe"
+  cons:
+    - "Silicone heads can stain"
+    - "Some pieces feel lightweight"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B074DTBFCL"
+  title: "Lodge Pre-Seasoned Cast Iron Skillet (12-inch)"
+  category: home-kitchen
+  price: 29.90
+  currency: "USD"
+  rating: 4.7
+  rating_count: 92000
+  description: >
+    Pre-seasoned 12-inch cast iron skillet ready to use out of the box.
+    Unmatched heat retention and even heating across the cooking surface.
+    Use on any cooktop, in the oven, on the grill, or over a campfire.
+    Durable construction that improves with every use.
+  tags: [skillet, cast-iron, lodge, cookware, kitchen]
+  pros:
+    - "Virtually indestructible"
+    - "Excellent heat retention"
+    - "Works on all heat sources"
+    - "Gets better with age"
+  cons:
+    - "Heavy"
+    - "Requires some maintenance"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B07VLHKSVM"
+  title: "Brita Standard Everyday Water Filter Pitcher (10-Cup)"
+  category: home-kitchen
+  price: 24.99
+  currency: "USD"
+  rating: 4.6
+  rating_count: 68000
+  description: >
+    10-cup capacity water filter pitcher reduces chlorine taste and odor.
+    BPA-free with easy-fill lid that flips open to refill.
+    Standard filter lasts approximately 2 months or 40 gallons.
+    Electronic filter change indicator.
+  tags: [water-filter, brita, kitchen, hydration, pitcher]
+  pros:
+    - "Noticeably improves water taste"
+    - "Easy to fill and pour"
+    - "Filter change indicator"
+    - "Affordable"
+  cons:
+    - "Ongoing filter replacement cost"
+    - "Slow filtration"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B08P3QHFCK"
+  title: "Yeti Rambler 26oz Bottle with Chug Cap"
+  category: home-kitchen
+  price: 40.00
+  currency: "USD"
+  rating: 4.8
+  rating_count: 28000
+  description: >
+    Double-wall vacuum insulated stainless steel water bottle.
+    Keeps drinks cold or hot for hours with no condensation.
+    Dishwasher safe with durable DuraCoat color finish.
+    Chug Cap for quick hydration on the go.
+  tags: [water-bottle, yeti, insulated, outdoor, durable]
+  pros:
+    - "Exceptional build quality"
+    - "All-day temperature retention"
+    - "Dishwasher safe"
+    - "No-sweat design"
+  cons:
+    - "Premium price for a water bottle"
+    - "Heavy when full"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+# =============================================================================
+# OFFICE & PRODUCTIVITY
+# =============================================================================
+
+- asin: "B09HZ7BY1S"
+  title: "Logitech MX Master 3S Wireless Mouse"
+  category: office
+  price: 99.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 22000
+  description: >
+    Ergonomic wireless mouse with 8K DPI sensor for precise tracking.
+    MagSpeed electromagnetic scroll wheel with auto-shift.
+    Quiet clicks with 90% noise reduction.
+    Connect up to 3 devices with Easy-Switch. USB-C charging.
+  tags: [mouse, logitech, ergonomic, wireless, productivity]
+  pros:
+    - "Exceptional ergonomic design"
+    - "MagSpeed scroll wheel"
+    - "Multi-device connectivity"
+    - "Quiet clicks"
+  cons:
+    - "Premium price for a mouse"
+    - "Right-handed design only"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B09KMHBC1J"
+  title: "Autonomous ErgoChair Pro"
+  category: office
+  price: 499.00
+  currency: "USD"
+  rating: 4.4
+  rating_count: 8500
+  description: >
+    Fully adjustable ergonomic office chair with lumbar support.
+    Adjustable headrest, armrests, seat tilt, and recline.
+    Breathable mesh back for all-day comfort.
+    Supports up to 300 lbs with smooth-rolling casters.
+  tags: [chair, ergonomic, office, work-from-home]
+  pros:
+    - "Highly adjustable"
+    - "Breathable mesh back"
+    - "Solid lumbar support"
+    - "5-year warranty"
+  cons:
+    - "Expensive"
+    - "Assembly required"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0C5C42JN1"
+  title: "BenQ ScreenBar Monitor Light"
+  category: office
+  price: 109.00
+  currency: "USD"
+  rating: 4.7
+  rating_count: 18000
+  description: >
+    USB-powered monitor light bar that clips onto your monitor.
+    Asymmetric optical design illuminates desk without screen glare.
+    Auto-dimming ambient light sensor. Touch controls for
+    brightness and color temperature adjustment.
+  tags: [lighting, monitor, benq, desk, eye-care]
+  pros:
+    - "No desk space needed"
+    - "Zero screen glare"
+    - "Auto-dimming sensor"
+    - "USB powered"
+  cons:
+    - "May not fit all monitor thicknesses"
+    - "Touch controls take getting used to"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B085RPJR6F"
+  title: "Logitech MX Keys S Wireless Keyboard"
+  category: office
+  price: 109.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 16000
+  description: >
+    Low-profile wireless keyboard with smart backlighting that adjusts
+    to lighting conditions and turns off when you walk away.
+    Perfect stroke keys for comfortable and fluid typing.
+    Easy-Switch connects up to 3 devices. USB-C rechargeable.
+  tags: [keyboard, logitech, wireless, productivity, typing]
+  pros:
+    - "Excellent typing feel"
+    - "Smart backlighting"
+    - "Multi-device switching"
+    - "Long battery life"
+  cons:
+    - "No mechanical switches"
+    - "Fingerprint magnet"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0BG5Y3GY7"
+  title: "UPLIFT V2 Standing Desk Frame"
+  category: office
+  price: 599.00
+  currency: "USD"
+  rating: 4.7
+  rating_count: 6500
+  description: >
+    Electric height-adjustable standing desk frame with dual motors.
+    Height range from 25.3 to 50.9 inches accommodates sitting and standing.
+    4 programmable memory presets for quick height changes.
+    Anti-collision technology and advanced keypad with LED display.
+  tags: [desk, standing-desk, ergonomic, office, motorized]
+  pros:
+    - "Smooth and quiet dual motors"
+    - "Wide height range"
+    - "4 memory presets"
+    - "Anti-collision safety"
+  cons:
+    - "Desktop sold separately"
+    - "Heavy and hard to move once assembled"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0C1JB9YPD"
+  title: "Elgato Wave:3 USB Microphone"
+  category: office
+  price: 149.99
+  currency: "USD"
+  rating: 4.6
+  rating_count: 8200
+  description: >
+    Premium USB condenser microphone with proprietary Clipguard technology
+    that prevents distortion. 24-bit/96kHz audio capture. Capacitive mute
+    button with LED indicator. Built-in pop filter.
+    Wave Link software for advanced audio mixing.
+  tags: [microphone, usb, streaming, podcasting, elgato, audio]
+  pros:
+    - "Clipguard prevents distortion"
+    - "High-quality 24-bit audio"
+    - "Capacitive mute button"
+    - "Great software integration"
+  cons:
+    - "Requires desk space or boom arm"
+    - "No XLR option"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B07K2NH7DC"
+  title: "AmazonBasics Mesh Back Office Chair"
+  category: office
+  price: 74.68
+  currency: "USD"
+  rating: 4.3
+  rating_count: 45000
+  description: >
+    Mid-back mesh office chair with padded seat and adjustable height.
+    Breathable mesh back for comfort during long work sessions.
+    360-degree swivel with smooth-rolling casters.
+    Adjustable seat height with pneumatic controls.
+  tags: [chair, office, budget, mesh, amazonbasics]
+  pros:
+    - "Very affordable"
+    - "Breathable mesh back"
+    - "Easy assembly"
+    - "Smooth rolling casters"
+  cons:
+    - "Minimal adjustability"
+    - "No armrest adjustment"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B01M4IG20B"
+  title: "Rocketbook Fusion Smart Notebook"
+  category: office
+  price: 28.49
+  currency: "USD"
+  rating: 4.4
+  rating_count: 35000
+  description: >
+    Reusable smart notebook with 42 pages in 7 different page styles.
+    Write with Pilot FriXion pen, scan with app, then wipe clean.
+    Upload notes to Google Drive, Dropbox, Evernote, and more.
+    Executive size (6x8.8 inches) fits in most bags.
+  tags: [notebook, reusable, smart, productivity, eco-friendly]
+  pros:
+    - "Infinitely reusable"
+    - "Cloud backup integration"
+    - "Multiple page styles"
+    - "Eco-friendly"
+  cons:
+    - "Must use specific FriXion pens"
+    - "Pages can smear before drying"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+# =============================================================================
+# HEALTH & FITNESS
+# =============================================================================
+
+- asin: "B0CXCL2YJJ"
+  title: "Theragun Relief Percussive Therapy Device"
+  category: health-fitness
+  price: 129.00
+  currency: "USD"
+  rating: 4.5
+  rating_count: 5200
+  description: >
+    Handheld percussion massager with 3 speeds.
+    QuietForce Technology for near-silent operation.
+    Ergonomic triangle grip design.
+    120-minute battery life. Bluetooth app connectivity.
+  tags: [massage, recovery, theragun, fitness, wellness]
+  pros:
+    - "Very quiet operation"
+    - "Long battery life"
+    - "Ergonomic grip"
+    - "App-guided routines"
+  cons:
+    - "Only 3 speed settings"
+    - "Single attachment included"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0BX7FFGG7"
+  title: "Whoop 4.0 Fitness Tracker"
+  category: health-fitness
+  price: 239.00
+  currency: "USD"
+  rating: 4.1
+  rating_count: 9800
+  description: >
+    Screenless wearable fitness tracker focused on recovery,
+    strain, and sleep metrics. Continuous heart rate and HRV monitoring.
+    5-day battery life with on-the-go charging.
+    Water resistant to 10 meters.
+  tags: [fitness-tracker, wearable, whoop, health, sleep]
+  pros:
+    - "Deep recovery and strain metrics"
+    - "No screen reduces distractions"
+    - "Comfortable to sleep in"
+    - "Detailed sleep analysis"
+  cons:
+    - "Requires monthly subscription"
+    - "No display for time/notifications"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B09PQ5GBR5"
+  title: "Bala Bangles Wrist & Ankle Weights (1 lb each)"
+  category: health-fitness
+  price: 55.00
+  currency: "USD"
+  rating: 4.5
+  rating_count: 12000
+  description: >
+    Stylish wearable weights that wrap around wrists or ankles.
+    1 pound each with adjustable elastic band for secure fit.
+    Add resistance to walks, yoga, pilates, and daily activities.
+    Recycled stainless steel bars wrapped in soft silicone.
+  tags: [weights, fitness, bala, yoga, pilates, wearable]
+  pros:
+    - "Sleek stylish design"
+    - "Comfortable to wear"
+    - "Versatile for many exercises"
+    - "Sustainable materials"
+  cons:
+    - "Expensive for 2 lbs total"
+    - "Only 1 lb per weight"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0BK2KQHD6"
+  title: "Fitbit Charge 6 Fitness Tracker"
+  category: health-fitness
+  price: 139.95
+  currency: "USD"
+  rating: 4.3
+  rating_count: 19000
+  description: >
+    Advanced fitness tracker with built-in GPS and heart rate monitoring.
+    Google integration with Maps, Wallet, and YouTube Music.
+    40+ exercise modes with automatic workout detection.
+    7-day battery life with always-on display option.
+  tags: [fitness-tracker, fitbit, gps, heart-rate, wearable]
+  pros:
+    - "Built-in GPS"
+    - "Google integration"
+    - "7-day battery life"
+    - "40+ exercise modes"
+  cons:
+    - "Monthly Premium subscription for some features"
+    - "Small display"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B07PNBMK19"
+  title: "Resistance Bands Set (5-Pack) with Handles"
+  category: health-fitness
+  price: 19.99
+  currency: "USD"
+  rating: 4.5
+  rating_count: 85000
+  description: >
+    Set of 5 resistance bands with varying resistance levels from 10 to 50 lbs.
+    Includes handles, door anchor, ankle straps, and carrying bag.
+    Stackable bands combine for up to 150 lbs of resistance.
+    Natural latex tubes with snap-resistant design.
+  tags: [resistance-bands, exercise, home-gym, budget, portable]
+  pros:
+    - "Full gym alternative for under $20"
+    - "5 resistance levels"
+    - "Portable with carrying bag"
+    - "Includes all accessories"
+  cons:
+    - "Latex can degrade over time"
+    - "Door anchor requires solid door"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0BRRMT8Y8"
+  title: "Hydro Flask Wide Mouth 32oz with Straw Lid"
+  category: health-fitness
+  price: 44.95
+  currency: "USD"
+  rating: 4.7
+  rating_count: 42000
+  description: >
+    Double-wall vacuum insulated stainless steel water bottle.
+    Keeps cold drinks cold up to 24 hours and hot drinks hot up to 12 hours.
+    Wide mouth opening for ice cubes and easy cleaning.
+    Straw lid for convenient sipping during workouts.
+  tags: [water-bottle, hydro-flask, insulated, gym, hydration]
+  pros:
+    - "Excellent temperature retention"
+    - "Durable powder coat finish"
+    - "Wide mouth for easy filling"
+    - "Lifetime warranty"
+  cons:
+    - "Dents if dropped"
+    - "Straw lid can be hard to clean"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B08DFPCC6D"
+  title: "Manduka PRO Yoga Mat (6mm)"
+  category: health-fitness
+  price: 120.00
+  currency: "USD"
+  rating: 4.7
+  rating_count: 7500
+  description: >
+    Professional-grade 6mm thick yoga mat with dense cushioning.
+    Closed-cell surface prevents sweat from seeping in.
+    High-density cushion provides joint protection.
+    Lifetime guarantee. Made without toxic materials (OEKO-TEX certified).
+  tags: [yoga, mat, manduka, fitness, exercise]
+  pros:
+    - "Lifetime guarantee"
+    - "Dense cushioning protects joints"
+    - "Closed-cell surface stays hygienic"
+    - "Non-toxic materials"
+  cons:
+    - "Heavy (over 7 lbs)"
+    - "Needs break-in period for grip"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0798LNH5Z"
+  title: "Blender Bottle Classic Shaker (28oz)"
+  category: health-fitness
+  price: 9.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 110000
+  description: >
+    28oz shaker bottle with patented BlenderBall wire whisk.
+    Snap-shut leak-proof lid with screw-on cap.
+    BPA and phthalate free. Dishwasher safe.
+    Embossed ounce and milliliter markings.
+  tags: [shaker, bottle, protein, gym, blenderbottle, budget]
+  pros:
+    - "BlenderBall mixes smoothly"
+    - "Leak-proof design"
+    - "Dishwasher safe"
+    - "Very affordable"
+  cons:
+    - "Can retain odors over time"
+    - "Plastic scratches with use"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+# =============================================================================
+# GAMING
+# =============================================================================
+
+- asin: "B0BT1LPKJD"
+  title: "PlayStation DualSense Edge Wireless Controller"
+  category: gaming
+  price: 199.99
+  currency: "USD"
+  rating: 4.4
+  rating_count: 11000
+  description: >
+    Pro-level customizable controller for PS5.
+    Remappable back buttons and swappable stick caps.
+    Adjustable trigger lengths and trigger dead zones.
+    Function buttons for quick profile switching mid-game.
+  tags: [controller, playstation, ps5, gaming, pro]
+  pros:
+    - "Highly customizable controls"
+    - "Swappable stick modules"
+    - "Back buttons"
+    - "Build quality"
+  cons:
+    - "Expensive for a controller"
+    - "Shorter battery life than standard DualSense"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0C7TG74VN"
+  title: "SteelSeries Arctis Nova Pro Wireless Headset"
+  category: gaming
+  price: 349.99
+  currency: "USD"
+  rating: 4.5
+  rating_count: 7500
+  description: >
+    Premium wireless gaming headset with active noise cancellation.
+    Dual-wireless connectivity (2.4GHz and Bluetooth simultaneously).
+    Hot-swappable dual battery system for infinite playtime.
+    Hi-Res audio certified with premium speaker drivers.
+  tags: [headset, gaming, steelseries, wireless, noise-cancelling]
+  pros:
+    - "Dual wireless connectivity"
+    - "Hot-swappable batteries"
+    - "Active noise cancellation"
+    - "Hi-Res audio"
+  cons:
+    - "Very expensive"
+    - "Base station required"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B09VV5LJS1"
+  title: "Nintendo Switch OLED Model"
+  category: gaming
+  price: 349.99
+  currency: "USD"
+  rating: 4.8
+  rating_count: 52000
+  description: >
+    Hybrid gaming console with vibrant 7-inch OLED screen.
+    Play on the TV or in handheld mode. Enhanced audio speakers.
+    Wide adjustable kickstand for tabletop play. 64GB internal storage.
+    Access to the massive Nintendo game library.
+  tags: [console, nintendo, switch, portable, oled]
+  pros:
+    - "Beautiful OLED display"
+    - "Massive game library"
+    - "Versatile play modes"
+    - "Great for families"
+  cons:
+    - "Same hardware power as original Switch"
+    - "Joy-Con drift remains a concern"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0BCNKKZ91"
+  title: "Razer DeathAdder V3 Gaming Mouse"
+  category: gaming
+  price: 89.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 9200
+  description: >
+    Ultra-lightweight ergonomic gaming mouse at just 59 grams.
+    Focus Pro 30K optical sensor with 30,000 DPI tracking.
+    90-hour battery life with Razer HyperSpeed wireless.
+    5 programmable buttons with Razer Synapse software.
+  tags: [mouse, gaming, razer, wireless, lightweight, fps]
+  pros:
+    - "Ultra-lightweight at 59g"
+    - "90-hour battery life"
+    - "Top-tier sensor"
+    - "Excellent ergonomic shape"
+  cons:
+    - "Right-handed only"
+    - "No RGB lighting"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0CL5KNB9M"
+  title: "Xbox Wireless Controller (Carbon Black)"
+  category: gaming
+  price: 54.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 65000
+  description: >
+    Standard wireless controller for Xbox Series X|S and PC.
+    Textured grip on triggers and bumpers for better control.
+    Share button for capturing screenshots and recordings.
+    3.5mm headset jack and USB-C port. Bluetooth connectivity.
+  tags: [controller, xbox, gaming, wireless, pc]
+  pros:
+    - "Great ergonomic design"
+    - "Works with Xbox and PC"
+    - "Textured grips"
+    - "Affordable"
+  cons:
+    - "Requires AA batteries (no built-in rechargeable)"
+    - "No back buttons"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0BYNMJ9KJ"
+  title: "HyperX Cloud III Wireless Gaming Headset"
+  category: gaming
+  price: 99.99
+  currency: "USD"
+  rating: 4.5
+  rating_count: 14000
+  description: >
+    Wireless gaming headset with 120-hour battery life.
+    DTS Spatial Audio for immersive 3D soundstage.
+    53mm drivers with signature HyperX comfort.
+    Detachable noise-cancelling microphone. Memory foam ear cushions.
+  tags: [headset, gaming, hyperx, wireless, budget]
+  pros:
+    - "Incredible 120-hour battery"
+    - "Very comfortable memory foam"
+    - "Good microphone quality"
+    - "Solid value"
+  cons:
+    - "No Bluetooth (2.4GHz only)"
+    - "Plastic build"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+# =============================================================================
+# SMART HOME
+# =============================================================================
+
+- asin: "B09B8V1LZ3"
+  title: "Amazon Echo Dot (5th Gen) Smart Speaker"
+  category: smart-home
+  price: 49.99
+  currency: "USD"
+  rating: 4.6
+  rating_count: 125000
+  description: >
+    Compact smart speaker with Alexa voice assistant.
+    Improved audio with clearer vocals and deeper bass.
+    Control smart home devices, play music, get news, set timers.
+    Built-in temperature sensor and eero mesh Wi-Fi support.
+  tags: [smart-speaker, alexa, amazon, echo, voice-assistant]
+  pros:
+    - "Very affordable smart speaker"
+    - "Improved sound quality"
+    - "Built-in temperature sensor"
+    - "Massive Alexa skill ecosystem"
+  cons:
+    - "Privacy concerns with always-on microphone"
+    - "Bass limited by small size"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0CWT588YB"
+  title: "Google Nest Learning Thermostat (4th Gen)"
+  category: smart-home
+  price: 279.99
+  currency: "USD"
+  rating: 4.5
+  rating_count: 8500
+  description: >
+    Smart thermostat that learns your schedule and preferred temperatures.
+    High-resolution borderless display shows temperature, weather, and time.
+    Works with Google Home, Alexa, and Apple HomeKit.
+    Energy-saving algorithms can reduce heating and cooling bills.
+  tags: [thermostat, nest, google, energy-saving, smart-home]
+  pros:
+    - "Learns your schedule automatically"
+    - "Works with all major ecosystems"
+    - "Beautiful design"
+    - "Proven energy savings"
+  cons:
+    - "Expensive for a thermostat"
+    - "Professional installation recommended"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B09TPDG4GK"
+  title: "Ring Video Doorbell (2nd Gen) Wired"
+  category: smart-home
+  price: 59.99
+  currency: "USD"
+  rating: 4.5
+  rating_count: 75000
+  description: >
+    1080p HD video doorbell with two-way audio and night vision.
+    Motion detection with customizable zones. Real-time notifications.
+    Works with Alexa for announcements and live view on Echo Show.
+    Hardwired installation for continuous power.
+  tags: [doorbell, ring, security, camera, smart-home]
+  pros:
+    - "Affordable video doorbell"
+    - "Easy Alexa integration"
+    - "Customizable motion zones"
+    - "1080p video quality"
+  cons:
+    - "Requires Ring subscription for video history"
+    - "Wired installation only"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B07WKR32GS"
+  title: "TP-Link Kasa Smart Plug (4-Pack)"
+  category: smart-home
+  price: 26.99
+  currency: "USD"
+  rating: 4.6
+  rating_count: 95000
+  description: >
+    Wi-Fi smart plugs that work with Alexa, Google Home, and SmartThings.
+    Control devices remotely from the Kasa app. Set schedules and timers.
+    No hub required. Compact design does not block second outlet.
+    Energy monitoring tracks power consumption.
+  tags: [smart-plug, tp-link, kasa, automation, alexa, google-home]
+  pros:
+    - "4 plugs for under $30"
+    - "No hub required"
+    - "Energy monitoring"
+    - "Compact design"
+  cons:
+    - "2.4GHz Wi-Fi only"
+    - "No matter/Thread support"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0B7CZBZ48"
+  title: "Philips Hue Starter Kit (3 A19 Bulbs + Bridge)"
+  category: smart-home
+  price: 129.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 32000
+  description: >
+    Smart lighting starter kit with 3 color-changing A19 LED bulbs and Hue Bridge.
+    16 million colors and tunable white from warm to cool.
+    Works with Alexa, Google Home, Apple HomeKit, and Matter.
+    Set scenes, schedules, and automations through the Hue app.
+  tags: [lighting, philips-hue, smart-bulbs, color, hub]
+  pros:
+    - "Massive color range"
+    - "Works with every smart home platform"
+    - "Reliable Zigbee protocol"
+    - "Huge third-party app ecosystem"
+  cons:
+    - "Requires Hue Bridge"
+    - "Expensive per bulb compared to competitors"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B09B96TG33"
+  title: "Apple HomePod Mini"
+  category: smart-home
+  price: 99.00
+  currency: "USD"
+  rating: 4.6
+  rating_count: 28000
+  description: >
+    Compact smart speaker with Siri voice control and room-filling sound.
+    Ultra-wideband chip enables Handoff for seamless iPhone audio transfer.
+    Temperature and humidity sensor built in.
+    HomeKit hub for controlling smart home accessories.
+  tags: [smart-speaker, apple, siri, homekit, homepod]
+  pros:
+    - "Excellent sound for its size"
+    - "Seamless Apple ecosystem integration"
+    - "HomeKit hub functionality"
+    - "Temperature/humidity sensor"
+  cons:
+    - "Limited to Apple ecosystem"
+    - "Siri less capable than Alexa"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+# =============================================================================
+# PERSONAL CARE & GROOMING
+# =============================================================================
+
+- asin: "B0C7X9LZMK"
+  title: "Philips Norelco OneBlade Face + Body Trimmer"
+  category: personal-care
+  price: 39.96
+  currency: "USD"
+  rating: 4.5
+  rating_count: 52000
+  description: >
+    Versatile electric trimmer for face and body grooming.
+    Unique OneBlade technology trims, edges, and shaves any length of hair.
+    Dual-sided body blade with skin guard for sensitive areas.
+    60 minutes of cordless runtime. Wet and dry use.
+  tags: [trimmer, grooming, philips, shaver, body]
+  pros:
+    - "One device for face and body"
+    - "Works on any hair length"
+    - "Wet and dry use"
+    - "Affordable"
+  cons:
+    - "Blades need replacing every 4 months"
+    - "Not as close as a traditional razor"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0CVX6NYC1"
+  title: "Dyson Airwrap Multi-Styler Complete Long"
+  category: personal-care
+  price: 599.99
+  currency: "USD"
+  rating: 4.5
+  rating_count: 18000
+  description: >
+    Multi-styler that curls, waves, smooths, and dries simultaneously.
+    Coanda airflow technology styles with air, not extreme heat.
+    6 attachments for different styles including barrels, brushes, and dryer.
+    Intelligent heat control measures temperature 40 times per second.
+  tags: [hair-styler, dyson, airwrap, beauty, hair-care]
+  pros:
+    - "Styles without extreme heat damage"
+    - "Versatile 6-attachment system"
+    - "Premium build quality"
+    - "Works on all hair types"
+  cons:
+    - "Very expensive"
+    - "Learning curve to master"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B084GJHRSV"
+  title: "Oral-B iO Series 5 Electric Toothbrush"
+  category: personal-care
+  price: 89.99
+  currency: "USD"
+  rating: 4.6
+  rating_count: 22000
+  description: >
+    Smart electric toothbrush with linear magnetic drive for micro-vibrations.
+    Round brush head for tooth-by-tooth cleaning.
+    Interactive display with smile timer and 5 cleaning modes.
+    Bluetooth connects to Oral-B app for brushing guidance.
+  tags: [toothbrush, oral-b, electric, dental, smart]
+  pros:
+    - "Noticeably cleaner teeth"
+    - "5 cleaning modes"
+    - "Smart timer and app"
+    - "Pressure sensor prevents over-brushing"
+  cons:
+    - "Replacement heads are expensive"
+    - "Charger is proprietary"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B086373ZJK"
+  title: "CeraVe Moisturizing Cream (19oz)"
+  category: personal-care
+  price: 16.99
+  currency: "USD"
+  rating: 4.8
+  rating_count: 145000
+  description: >
+    Rich moisturizing cream with 3 essential ceramides for skin barrier repair.
+    MVE Technology provides 24-hour hydration with a single application.
+    Fragrance-free, non-comedogenic formula suitable for all skin types.
+    Developed with dermatologists. National Eczema Association accepted.
+  tags: [moisturizer, cerave, skincare, dermatologist, sensitive-skin]
+  pros:
+    - "Dermatologist recommended"
+    - "24-hour hydration"
+    - "Fragrance-free"
+    - "Great for sensitive skin and eczema"
+  cons:
+    - "Thick texture not for everyone"
+    - "Jar packaging less hygienic than pump"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B097BFSP7B"
+  title: "Waterpik Cordless Advanced Water Flosser"
+  category: personal-care
+  price: 59.99
+  currency: "USD"
+  rating: 4.5
+  rating_count: 35000
+  description: >
+    Cordless rechargeable water flosser for effective teeth and gum cleaning.
+    3 pressure settings with 360-degree tip rotation.
+    Removable water reservoir for easy filling and cleaning.
+    ADA accepted for safety and efficacy. Waterproof for shower use.
+  tags: [water-flosser, waterpik, dental, cordless, oral-care]
+  pros:
+    - "ADA accepted"
+    - "Cordless and waterproof"
+    - "3 pressure settings"
+    - "Easier than string floss"
+  cons:
+    - "Messy until you get the technique"
+    - "Reservoir is small"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0BN32Z6L4"
+  title: "Laneige Lip Sleeping Mask (Berry)"
+  category: personal-care
+  price: 24.00
+  currency: "USD"
+  rating: 4.6
+  rating_count: 58000
+  description: >
+    Overnight lip treatment mask with Vitamin C and antioxidants.
+    Berry flavor with a smooth balm-like texture.
+    Gently melts away dead skin and hydrates while you sleep.
+    Wake up with softer, smoother lips.
+  tags: [lip-care, laneige, beauty, skincare, mask]
+  pros:
+    - "Noticeably softer lips overnight"
+    - "Pleasant berry scent"
+    - "A little goes a long way"
+    - "Cult-favorite product"
+  cons:
+    - "Expensive for lip balm"
+    - "Jar packaging"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+# =============================================================================
+# OUTDOOR & TRAVEL
+# =============================================================================
+
+- asin: "B07H4BTVNG"
+  title: "Osprey Farpoint 40 Travel Backpack"
+  category: outdoor
+  price: 164.95
+  currency: "USD"
+  rating: 4.7
+  rating_count: 12000
+  description: >
+    Carry-on compatible travel backpack with 40-liter capacity.
+    Padded laptop and tablet compartment. Stowaway harness and hipbelt
+    zip away for checked luggage. Lockable zippers on main compartment.
+    Lightweight mesh back panel for comfort.
+  tags: [backpack, travel, osprey, carry-on, hiking]
+  pros:
+    - "Carry-on size for most airlines"
+    - "Stowaway harness system"
+    - "Lockable zippers"
+    - "Comfortable to wear all day"
+  cons:
+    - "No front-loading clamshell opening"
+    - "Limited organization pockets"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B08C7KG5LC"
+  title: "Apple AirTag (4-Pack)"
+  category: outdoor
+  price: 89.00
+  currency: "USD"
+  rating: 4.7
+  rating_count: 92000
+  description: >
+    Precision finding item trackers powered by the Apple Find My network.
+    Ultra-wideband technology for precise direction and distance.
+    Replaceable CR2032 battery lasts over a year.
+    IP67 water and dust resistant. Built-in speaker plays sound to locate.
+  tags: [tracker, airtag, apple, travel, luggage, find-my]
+  pros:
+    - "Precision Finding with UWB"
+    - "Massive Find My network"
+    - "Over 1-year battery life"
+    - "IP67 water resistant"
+  cons:
+    - "Only works with Apple devices"
+    - "No hole for keyring (needs holder)"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B09T2K1Y8B"
+  title: "YETI Hopper Flip 12 Soft Cooler"
+  category: outdoor
+  price: 250.00
+  currency: "USD"
+  rating: 4.7
+  rating_count: 6500
+  description: >
+    Premium soft-sided cooler holds 12 cans plus ice.
+    ColdCell insulation keeps ice for days.
+    100% leakproof HydroLok zipper closure.
+    Wide-mouth opening for easy loading. Food-safe DryHide shell.
+  tags: [cooler, yeti, outdoor, camping, portable]
+  pros:
+    - "Exceptional ice retention"
+    - "Fully leakproof"
+    - "Extremely durable"
+    - "Easy to carry"
+  cons:
+    - "Very expensive for a cooler"
+    - "Heavy for its capacity"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B08LMHRL3S"
+  title: "Goal Zero Nomad 20 Portable Solar Panel"
+  category: outdoor
+  price: 99.95
+  currency: "USD"
+  rating: 4.4
+  rating_count: 4200
+  description: >
+    20-watt foldable solar panel for charging devices on the go.
+    USB-A and USB-C output ports for phones, tablets, and power banks.
+    Integrated kickstand for optimal sun angle. Weather-resistant design.
+    Folds flat for easy packing in a backpack.
+  tags: [solar, charger, portable, camping, outdoor, goal-zero]
+  pros:
+    - "Charges devices off-grid"
+    - "Foldable and packable"
+    - "Dual USB ports"
+    - "Weather resistant"
+  cons:
+    - "Charging speed depends on sunlight"
+    - "Cannot charge laptops directly"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B07MCGDS33"
+  title: "Anker Bolder LC40 Rechargeable Flashlight"
+  category: outdoor
+  price: 21.99
+  currency: "USD"
+  rating: 4.6
+  rating_count: 42000
+  description: >
+    400-lumen rechargeable LED flashlight with 5 light modes.
+    USB rechargeable with 6-hour runtime on medium setting.
+    IP65 water-resistant for rain and wet conditions.
+    Zoomable focus from wide floodlight to narrow spotlight.
+  tags: [flashlight, anker, rechargeable, camping, outdoor, edc]
+  pros:
+    - "USB rechargeable"
+    - "Zoomable beam"
+    - "Water resistant"
+    - "Very affordable"
+  cons:
+    - "Not the brightest option available"
+    - "Micro-USB charging (not USB-C)"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B07PG9JLHM"
+  title: "Away Carry-On Luggage with Ejectable Battery"
+  category: outdoor
+  price: 275.00
+  currency: "USD"
+  rating: 4.5
+  rating_count: 15000
+  description: >
+    Hardside carry-on suitcase with polycarbonate shell.
+    Built-in ejectable USB battery pack charges devices at the airport.
+    Interior compression system and hidden laundry bag.
+    TSA-approved combination lock built into the top.
+    360-degree spinner wheels for smooth rolling.
+  tags: [luggage, carry-on, travel, away, suitcase]
+  pros:
+    - "Built-in phone charger"
+    - "Durable polycarbonate shell"
+    - "TSA-approved lock"
+    - "Smooth spinner wheels"
+  cons:
+    - "No expander zipper"
+    - "Battery adds weight"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B07B3YRZKL"
+  title: "Lifestraw Personal Water Filter"
+  category: outdoor
+  price: 14.97
+  currency: "USD"
+  rating: 4.7
+  rating_count: 78000
+  description: >
+    Portable personal water filter removes 99.999% of bacteria and parasites.
+    Filters up to 1,000 gallons (4,000 liters) of water.
+    No batteries, moving parts, or chemicals required.
+    Weighs only 2 ounces. Meets EPA and NSF standards.
+  tags: [water-filter, lifestraw, camping, survival, hiking, budget]
+  pros:
+    - "Removes 99.999% of bacteria"
+    - "No batteries needed"
+    - "Ultralight at 2 oz"
+    - "Filters 1,000 gallons"
+  cons:
+    - "Cannot filter viruses"
+    - "Must suck water through straw"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+# =============================================================================
+# BABY & KIDS
+# =============================================================================
+
+- asin: "B0B37NVK3N"
+  title: "Hatch Rest 2nd Gen Baby Sound Machine & Night Light"
+  category: baby-kids
+  price: 69.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 38000
+  description: >
+    All-in-one baby sound machine, night light, and time-to-rise alert.
+    Control remotely via the Hatch app or on-device touch controls.
+    Customizable sound and color combinations for sleep routines.
+    Toddler lock prevents kids from changing settings.
+  tags: [baby, sound-machine, night-light, hatch, sleep, nursery]
+  pros:
+    - "Remote control via app"
+    - "Combines sound machine and night light"
+    - "Time-to-rise feature for toddlers"
+    - "Toddler lock"
+  cons:
+    - "Some features require subscription"
+    - "App can be slow"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0BG6FGLPV"
+  title: "UPPAbaby VISTA V2 Stroller"
+  category: baby-kids
+  price: 999.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 5200
+  description: >
+    Full-size convertible stroller that grows from one child to three.
+    Reversible toddler seat and included bassinet for newborns.
+    All-wheel suspension with large puncture-proof wheels.
+    Extendable canopy with UPF 50+ sun protection. One-step fold.
+  tags: [stroller, uppababy, baby, convertible, premium]
+  pros:
+    - "Converts for multiple children"
+    - "Bassinet included"
+    - "Smooth ride on all terrain"
+    - "Excellent build quality"
+  cons:
+    - "Very expensive"
+    - "Heavy at 27 lbs"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B078WG6DBH"
+  title: "Water Wow! No Mess Water Painting Activity Pad (4-Pack)"
+  category: baby-kids
+  price: 19.99
+  currency: "USD"
+  rating: 4.8
+  rating_count: 62000
+  description: >
+    Mess-free painting activity pads that use water only.
+    Colors appear with water and fade as they dry for reuse.
+    4-pack includes different themes (animals, safari, vehicles, farm).
+    Built-in water pen for easy use by young children. Great for travel.
+  tags: [kids, activity, mess-free, travel, toddler, gift]
+  pros:
+    - "Zero mess"
+    - "Reusable as pages dry"
+    - "Great for travel and restaurants"
+    - "Keeps kids entertained"
+  cons:
+    - "Water pen can leak in bag"
+    - "Colors are basic"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B081RHNQMN"
+  title: "Baby Brezza Formula Pro Advanced Mixer"
+  category: baby-kids
+  price: 199.99
+  currency: "USD"
+  rating: 4.4
+  rating_count: 18000
+  description: >
+    Automatic formula dispenser that mixes a warm bottle in seconds.
+    WiFi enabled with app control for remote operation.
+    Dispenses 1-10 ounces with precise powder-to-water ratio.
+    Works with virtually all formula brands and sizes.
+  tags: [baby, formula, bottle, brezza, automated, nursery]
+  pros:
+    - "Makes bottles in seconds"
+    - "Consistent perfect mix every time"
+    - "WiFi and app control"
+    - "Works with most formula brands"
+  cons:
+    - "Requires regular cleaning"
+    - "Expensive"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B07BDHPH6M"
+  title: "Wubbanub Infant Pacifier (Elephant)"
+  category: baby-kids
+  price: 15.99
+  currency: "USD"
+  rating: 4.8
+  rating_count: 28000
+  description: >
+    Pacifier attached to a plush animal friend for easy gripping.
+    Medical-grade silicone pacifier that is latex free and BPA free.
+    Stuffed animal acts as a anchor so pacifier stays close to baby.
+    One-piece design with no detachable parts. Machine washable.
+  tags: [baby, pacifier, plush, infant, gift, newborn]
+  pros:
+    - "Baby can hold it easily"
+    - "Stays close to baby"
+    - "Medical-grade silicone"
+    - "Adorable designs"
+  cons:
+    - "Cannot replace just the pacifier"
+    - "Plush can get dirty"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+# =============================================================================
+# PETS
+# =============================================================================
+
+- asin: "B0002AT3TC"
+  title: "KONG Classic Dog Toy (Large)"
+  category: pets
+  price: 14.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 120000
+  description: >
+    Ultra-durable natural rubber dog toy for aggressive chewers.
+    Unpredictable bounce for interactive fetch play.
+    Hollow center can be stuffed with treats or peanut butter.
+    Recommended by veterinarians and trainers worldwide.
+    Dishwasher safe for easy cleaning.
+  tags: [dog, toy, kong, chew, durable, treat]
+  pros:
+    - "Extremely durable"
+    - "Great for treat stuffing"
+    - "Vet recommended"
+    - "Keeps dogs entertained"
+  cons:
+    - "Sizing can be tricky"
+    - "Strong chewers may eventually destroy it"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0C8SHXGVS"
+  title: "Litter-Robot 4 Automatic Self-Cleaning Litter Box"
+  category: pets
+  price: 699.00
+  currency: "USD"
+  rating: 4.3
+  rating_count: 9500
+  description: >
+    Fully automatic self-cleaning litter box with WiFi connectivity.
+    Whisper-quiet cleaning cycle activates after cat exits.
+    OmniSense detection system for accurate cat weight and usage tracking.
+    Carbon-filtered waste drawer minimizes odors. App shows litter level.
+  tags: [cat, litter-box, automatic, litter-robot, smart]
+  pros:
+    - "Never scoop again"
+    - "App tracks cat health metrics"
+    - "Quiet operation"
+    - "Odor control"
+  cons:
+    - "Very expensive"
+    - "Large footprint"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B07B4HFQZL"
+  title: "Furminator Deshedding Tool for Dogs"
+  category: pets
+  price: 29.99
+  currency: "USD"
+  rating: 4.6
+  rating_count: 55000
+  description: >
+    Professional deshedding tool reduces loose hair up to 90%.
+    Stainless steel deShedding edge reaches through topcoat to safely
+    remove undercoat and loose hair. FURejector button cleans hair from tool.
+    Ergonomic handle for comfortable grooming sessions.
+  tags: [dog, grooming, furminator, deshedding, brush]
+  pros:
+    - "Dramatically reduces shedding"
+    - "Easy push-button hair release"
+    - "Ergonomic handle"
+    - "Durable construction"
+  cons:
+    - "Can cut coat if overused"
+    - "Not for all coat types"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B07PLCS9GD"
+  title: "PetSafe ScoopFree Crystal Litter Tray (3-Pack)"
+  category: pets
+  price: 44.95
+  currency: "USD"
+  rating: 4.5
+  rating_count: 25000
+  description: >
+    Pre-filled disposable litter trays with crystal cat litter.
+    Crystal litter absorbs urine and dehydrates waste on contact.
+    Each tray lasts up to 30 days for one cat. No scooping needed.
+    Low-tracking crystals stay in the box. Plastic lining prevents leaks.
+  tags: [cat, litter, crystal, petsafe, refill, low-maintenance]
+  pros:
+    - "Lasts up to 30 days"
+    - "Superior odor control"
+    - "No daily scooping"
+    - "Low tracking"
+  cons:
+    - "Ongoing tray replacement cost"
+    - "Some cats dislike crystal texture"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0002DJONY"
+  title: "Chuckit! Ultra Ball Dog Toy (2-Pack)"
+  category: pets
+  price: 7.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 95000
+  description: >
+    High-bounce rubber balls designed for fetch play.
+    Durable natural rubber core withstands aggressive chewing.
+    High visibility orange and blue colors for easy tracking.
+    Compatible with Chuckit! ball launchers. Fits standard launcher size.
+  tags: [dog, toy, fetch, ball, chuckit, outdoor]
+  pros:
+    - "Extremely durable"
+    - "High bounce"
+    - "Easy to see in grass"
+    - "Affordable 2-pack"
+  cons:
+    - "Can roll under furniture"
+    - "Not indestructible for power chewers"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+# =============================================================================
+# TOOLS & HOME IMPROVEMENT
+# =============================================================================
+
+- asin: "B00BTIUYWA"
+  title: "BLACK+DECKER 20V MAX Cordless Drill/Driver Kit"
+  category: tools
+  price: 49.00
+  currency: "USD"
+  rating: 4.6
+  rating_count: 75000
+  description: >
+    Cordless drill and driver with 20V MAX lithium battery.
+    11-position clutch prevents overdriving and stripping screws.
+    LED work light illuminates dark areas. 24-position clutch.
+    Includes 30-piece accessory kit with bits and driver heads.
+  tags: [drill, cordless, black-decker, power-tool, diy]
+  pros:
+    - "Great starter drill"
+    - "30-piece accessory kit included"
+    - "LED work light"
+    - "Very affordable"
+  cons:
+    - "Not for heavy-duty jobs"
+    - "Battery could be larger"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B00FHPFZ0E"
+  title: "DeWalt 20V MAX Impact Driver Kit"
+  category: tools
+  price: 139.00
+  currency: "USD"
+  rating: 4.8
+  rating_count: 42000
+  description: >
+    Compact and lightweight impact driver with 1400 in-lbs of torque.
+    3 LED lights with 20-second trigger release delay for work area illumination.
+    One-handed bit loading with 1/4-inch hex chuck.
+    Includes 20V MAX battery, charger, belt hook, and bag.
+  tags: [impact-driver, dewalt, cordless, power-tool, professional]
+  pros:
+    - "Powerful 1400 in-lbs torque"
+    - "Compact and lightweight"
+    - "3 LED lights"
+    - "Professional quality"
+  cons:
+    - "Only 1 battery included"
+    - "Loud during operation"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0948WGXZL"
+  title: "iFixit Pro Tech Toolkit (128-Piece)"
+  category: tools
+  price: 74.99
+  currency: "USD"
+  rating: 4.8
+  rating_count: 15000
+  description: >
+    Professional electronics repair toolkit with 128 precision tools.
+    64 precision screwdriver bits covering pentalobe, torx, hex, and more.
+    Includes spudgers, tweezers, suction cups, and opening picks.
+    Organized in a zippered carrying case. Lifetime warranty.
+  tags: [toolkit, ifixit, electronics, repair, precision, tech]
+  pros:
+    - "Covers virtually every device type"
+    - "Lifetime warranty"
+    - "Excellent build quality"
+    - "Organized carrying case"
+  cons:
+    - "Overkill for basic repairs"
+    - "Small bits are easy to lose"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B07QGJ9V2P"
+  title: "DEWALT Tape Measure (25-ft)"
+  category: tools
+  price: 16.98
+  currency: "USD"
+  rating: 4.8
+  rating_count: 38000
+  description: >
+    25-foot tape measure with 13-foot standout for measuring without help.
+    Tough nylon blade coating with large easy-to-read markings.
+    Comfortable rubber-over-mold grip. Belt clip included.
+    Impact-resistant case survives drops.
+  tags: [tape-measure, dewalt, measuring, basic-tools, diy]
+  pros:
+    - "13-foot standout"
+    - "Easy-to-read markings"
+    - "Very durable"
+    - "Comfortable grip"
+  cons:
+    - "Heavier than basic tape measures"
+    - "Lock can be stiff"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B003JH7YCO"
+  title: "3M Command Picture Hanging Strips (16 Pairs)"
+  category: tools
+  price: 12.97
+  currency: "USD"
+  rating: 4.6
+  rating_count: 125000
+  description: >
+    Damage-free hanging strips hold up to 12 lbs per pair.
+    No nails, screws, or holes needed. Clean removal stretches off cleanly.
+    Works on most smooth surfaces including painted walls, tile, and metal.
+    Interlocking design allows easy leveling and readjustment.
+  tags: [hanging, command, 3m, no-damage, wall, picture]
+  pros:
+    - "No wall damage"
+    - "Easy to use and remove"
+    - "Strong hold"
+    - "Great for renters"
+  cons:
+    - "Not reusable after removal"
+    - "Don't work on textured walls"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+# =============================================================================
+# BOOKS & LEARNING
+# =============================================================================
+
+- asin: "B08VCNFY39"
+  title: "Atomic Habits by James Clear (Hardcover)"
+  category: books-media
+  price: 18.39
+  currency: "USD"
+  rating: 4.8
+  rating_count: 185000
+  description: >
+    Practical guide to building good habits and breaking bad ones.
+    Framework based on the four laws of behavior change.
+    Packed with evidence-based strategies for making tiny changes
+    that lead to remarkable results. Over 15 million copies sold.
+  tags: [book, self-help, habits, productivity, bestseller]
+  pros:
+    - "Actionable framework"
+    - "Easy to read and apply"
+    - "Evidence-based strategies"
+    - "15+ million copies sold for a reason"
+  cons:
+    - "Some concepts feel basic if you read similar books"
+    - "Could be more concise"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B08XZFBSWQ"
+  title: "The Psychology of Money by Morgan Housel (Paperback)"
+  category: books-media
+  price: 14.99
+  currency: "USD"
+  rating: 4.7
+  rating_count: 72000
+  description: >
+    19 short stories exploring the strange ways people think about money.
+    Covers how emotions and personal history shape financial decisions
+    more than spreadsheets and formulas. Accessible writing style
+    with timeless lessons about wealth, greed, and happiness.
+  tags: [book, finance, money, investing, psychology, bestseller]
+  pros:
+    - "Engaging storytelling approach"
+    - "Timeless financial wisdom"
+    - "Short and readable"
+    - "Changes how you think about money"
+  cons:
+    - "Light on specific investment advice"
+    - "May feel basic for finance professionals"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B09MYXHPNR"
+  title: "Build by Tony Fadell (Hardcover)"
+  category: books-media
+  price: 19.49
+  currency: "USD"
+  rating: 4.6
+  rating_count: 5800
+  description: >
+    Unorthodox guide to building products and companies from the creator
+    of the iPod and Nest. Covers career advice, product design, leadership,
+    and startup building. Written as a mentorship handbook with practical
+    advice for every career stage.
+  tags: [book, business, product-design, startup, leadership, tech]
+  pros:
+    - "Insider stories from Apple and Nest"
+    - "Practical career advice"
+    - "Engaging writing style"
+    - "Covers all career stages"
+  cons:
+    - "Silicon Valley centric perspective"
+    - "Some advice may not apply to all industries"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B0CKZX1G1D"
+  title: "Co-Intelligence by Ethan Mollick (Hardcover)"
+  category: books-media
+  price: 22.99
+  currency: "USD"
+  rating: 4.5
+  rating_count: 3200
+  description: >
+    Guide to living and working with AI from Wharton professor Ethan Mollick.
+    Covers practical strategies for using AI as a creative partner,
+    co-worker, and tutor. Grounded in research with real-world examples.
+    Essential reading for understanding AI's impact on work and life.
+  tags: [book, ai, technology, business, future, productivity]
+  pros:
+    - "Practical and grounded in research"
+    - "Relevant to everyone using AI"
+    - "Well-written and accessible"
+    - "Actionable strategies"
+  cons:
+    - "AI landscape changes quickly"
+    - "Could go deeper in some areas"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"
+
+- asin: "B00ICN066A"
+  title: "Thinking, Fast and Slow by Daniel Kahneman (Paperback)"
+  category: books-media
+  price: 11.98
+  currency: "USD"
+  rating: 4.6
+  rating_count: 85000
+  description: >
+    Nobel Prize-winning psychologist explores the two systems that drive
+    how we think. System 1 is fast and intuitive; System 2 is slow and
+    deliberate. Reveals cognitive biases that affect every decision we make.
+    Foundational work in behavioral economics.
+  tags: [book, psychology, decision-making, economics, science, classic]
+  pros:
+    - "Foundational behavioral economics text"
+    - "Changes how you think about thinking"
+    - "Nobel Prize-winning research"
+    - "Endlessly practical"
+  cons:
+    - "Dense in places"
+    - "Long read at 500+ pages"
+  date_added: "2026-02-22"
+  last_verified: "2026-02-22"

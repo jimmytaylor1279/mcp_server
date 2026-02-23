@@ -1,0 +1,47 @@
+- slug: electronics
+  name: Electronics
+  description: "Top-rated electronics, gadgets, and tech accessories"
+
+- slug: home-kitchen
+  name: Home & Kitchen
+  description: "Best home and kitchen products for everyday life"
+
+- slug: office
+  name: Office & Productivity
+  description: "Work-from-home essentials and office supplies"
+
+- slug: health-fitness
+  name: Health & Fitness
+  description: "Fitness gear, supplements, and wellness products"
+
+- slug: gaming
+  name: Gaming
+  description: "Gaming consoles, accessories, and peripherals"
+
+- slug: smart-home
+  name: Smart Home
+  description: "Smart speakers, cameras, lighting, and home automation"
+
+- slug: personal-care
+  name: Personal Care & Grooming
+  description: "Grooming tools, skincare devices, and personal care essentials"
+
+- slug: outdoor
+  name: Outdoor & Travel
+  description: "Camping gear, travel accessories, and outdoor equipment"
+
+- slug: baby-kids
+  name: Baby & Kids
+  description: "Top-rated products for babies, toddlers, and children"
+
+- slug: pets
+  name: Pets
+  description: "Popular products for dogs, cats, and other pets"
+
+- slug: tools
+  name: Tools & Home Improvement
+  description: "Power tools, hand tools, and home improvement essentials"
+
+- slug: books-media
+  name: Books & Learning
+  description: "Bestselling books, courses, and educational resources"

@@ -1,0 +1,22 @@
+name: "AI Buyers Guide"
+description: "Curated Amazon product recommendations optimized for AI agents and humans"
+url: "https://deals.oneheadlightapp.com"
+affiliate_tag: "oneheadlight-20"
+
+# PA-API Configuration
+# Set to true once you have Amazon Product Advertising API access.
+# This unlocks price and rating display on the site (required by Amazon TOS
+# to only show prices/ratings sourced from PA-API).
+#
+# How to get PA-API access:
+# 1. Make 3 qualifying sales through your affiliate links
+# 2. Check your sales count at: https://affiliate-program.amazon.com/home
+#    (look under "Earnings Summary" or "Orders" tab)
+# 3. Once you have 3+ sales, apply for PA-API at:
+#    https://affiliate-program.amazon.com/assoc_credentials/home
+# 4. Set pa_api_enabled to true and add your credentials below
+# 5. Run: python check_sales.py to verify your status anytime
+pa_api_enabled: false
+# pa_api_access_key: ""
+# pa_api_secret_key: ""
+# pa_api_partner_tag: "oneheadlight-20"
